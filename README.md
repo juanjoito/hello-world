@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository
+
+New to GitHub, interested un using it with R!
